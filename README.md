@@ -1,4 +1,3 @@
-ds4e
-====
+# Data Science for Everyone
 
-Data Science for Everyone
+A programming (Python) centric course to teach data science to broad audiences.
