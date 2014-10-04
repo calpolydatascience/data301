@@ -1,4 +1,6 @@
-For lecture notes:
+# Notes in teaching using the IPython Notebook
+
+For notebooks prepared as lectures:
 
 * Keep all main teaching examples as simple as possible. Don't do fancy examples to teach
   students the API and how to code.
