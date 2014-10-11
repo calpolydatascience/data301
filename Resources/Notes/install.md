@@ -27,9 +27,16 @@ Or you can post the wheel online somewhere. I have posted it as an official rele
 repo. Then install using:
 
 ```
-$ pip install --upgrade https://github.com/ellisonbg/ds4e/releases/download/0.1/ipython-3.0.0_dev-py2-none-any.whl
+$ pip install --upgrade https://github.com/ellisonbg/ds4e/releases/download/0.1/ipython-3.0.0_dev-py2-none-any.whl#egg=ipython[notebook]
 ```
 
 If the user already has this version installed, they may have to do `pip uninstall ipython` first. I 
 have tested this and it works on top of a default Anaconda.
+
+But first uninstall the Cython package because mistune will try to build its C extension if Cython
+is installed, but that will fail because there is no compiler!!!
+
+```
+$ conda remote cython
+```
 
