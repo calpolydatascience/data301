@@ -37,6 +37,6 @@ But first uninstall the Cython package because mistune will try to build its C e
 is installed, but that will fail because there is no compiler!!!
 
 ```
-$ conda remote cython
+$ conda remove cython
 ```
 
