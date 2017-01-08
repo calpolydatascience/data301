@@ -1,3 +1,6 @@
 [submodule "Content/PythonDataScienceHandbook"]
 	path = Content/PythonDataScienceHandbook
 	url = https://github.com/jakevdp/PythonDataScienceHandbook.git
+[submodule "Content/WhirlwindTourOfPython"]
+	path = Content/WhirlwindTourOfPython
+	url = https://github.com/jakevdp/WhirlwindTourOfPython.git
