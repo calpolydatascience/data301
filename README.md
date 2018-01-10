@@ -15,7 +15,7 @@ by Jake VanderPlas, in this course. We highly recommended it!
 
 ## DataCamp
 
-![DataCamp](./datacamp_logo.png | width=25)
+![DataCamp](./datacamp_logo.png)
 
 We are also using [DataCamp](datacamp.com) for some of this course. They are generously providing
 free access to DataCamp for our students during the course:
