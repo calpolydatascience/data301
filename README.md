@@ -17,7 +17,8 @@ by Jake VanderPlas, in this course. We highly recommended it!
 
 ![DataCamp](./datacamp_logo.png)
 
-We are also using [DataCamp](datacamp.com) for some of this course. They are generously providing
+We are also using [DataCamp](datacamp.com) for some of this course.DataCamp is preety good
+for the beginners.They are generously providing
 free access to DataCamp for our students during the course:
 
 > This class is supported by DataCamp, the most intuitive learning platform for data science.
